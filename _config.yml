@@ -1,5 +1,5 @@
 #page title
-page_title                                : "Rain Sounds"                                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : "Nature Sounds"                                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                            # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/app_icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : "Rain Sounds"                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : " Having trouble sleeping or want to get relaxed? Rain Sounds app helps you fall asleep fast quickly.  <br> <br>  Ideal for sleeping, relaxing, meditation and tinnitus problems.
+app_description                           : " Having trouble sleeping or want to get relaxed? Nature Sounds app helps you fall asleep fast quickly.  <br> <br>  Ideal for sleeping, relaxing, meditation and tinnitus problems.
 "
 
 
