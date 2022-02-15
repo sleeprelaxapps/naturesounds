@@ -5,11 +5,11 @@ include_in_header: false
 ---
 
 **Last updated**  
-Dec 24 2020
+Feb 15 2022
 
 # Privacy Policy
 
-"AluntApps" built the Nature Sounds app as an Ad Supported app. This SERVICE is provided by "AluntApps" at no cost and is intended for use as is.
+"SleepRelaxApps" built the Nature Sounds app as an Ad Supported app. This SERVICE is provided by "SleepRelaxApps" at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
