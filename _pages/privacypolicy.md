@@ -9,7 +9,7 @@ Dec 24 2020
 
 # Privacy Policy
 
-Alunt Apps built the Nature Sounds app as an Ad Supported app. This SERVICE is provided by Alunt Apps at no cost and is intended for use as is.
+"Sleep sounds & Relaxing music" built the Nature Sounds app as an Ad Supported app. This SERVICE is provided by "Sleep sounds & Relaxing music" at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
