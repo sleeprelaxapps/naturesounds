@@ -69,8 +69,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 This policy is effective as of 2020-12-24
 
-# Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at aluntapps@gmail.com.
-
-  
